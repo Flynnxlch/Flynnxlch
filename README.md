@@ -54,7 +54,17 @@
   <a href="https://instagram.com/misyal_g" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" />
   </a>
-  <!-- Tambahkan link lain jika ada -->
+  <a href="https://www.linkedin.com/in/muhammad-misyal-gibran-412029297/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" />
+</a>
+
+<a href="https://discord.com/users/602473652453376030" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" />
+</a>
+
+<a href="https://www.reddit.com/user/WaderLymon/" target="_blank">
+  <img src="https://cdn.simpleicons.org/reddit/FF4500" width="52" alt="reddit logo" />
+</a>
 </div>
 
 ###
