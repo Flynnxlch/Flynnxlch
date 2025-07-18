@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I'm a currently leaning and passioning in Android Developer exploring Kotlin, Jetpack Compose, and Firebase</h4>
+<h4 align="left">I'm currently learning and passionate about Android Development exploring Kotlin, Jetpack Compose, and Firebase</h4>
 
 ###
 
@@ -20,8 +20,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejczOTdtaTFiYTQ5bm10dXprY3hsODE4aG85eDZ0NW90NGdpd2tvNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MJDBXJ2PtgkEg/giphy.gif" height="200" />
+<div align="center" style="width: 100%;">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGkybzM5b2I0NXYxbGZtN3hmejdrbTUwYzJtaGNldXFzcGcycmhxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y01jP8QeLOox2/giphy.gif" width="100%" alt="fun gif" />
 </div>
 
 ###
@@ -75,5 +75,5 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF61F6&center=true&width=440&lines=Im+Beginner+in+Android...;Ampun+Puh+Sepuh!;On+my+way+to+be+Multiplatform+developer+💻" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF61F6&center=true&width=440&lines=I'm+Beginner+in+Android...;Ampun+Puh+Sepuh!;On+my+way+to+be+Multiplatform+developer+💻" />
 </div>
