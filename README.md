@@ -1,16 +1,20 @@
-<h1 align="left">Hey there 👋 I'm Misyal</h1>
+<h1 align="left" style="background: linear-gradient(90deg, #6a11cb 0%, #2575fc 100%); -webkit-background-clip: text; color: transparent;">
+  Hey there 👋 I'm Misyal
+</h1>
 
 ###
 
-<h2 align="left">💡 About Me</h2>
+<h2 align="left" style="color: #2575fc;">💡 About Me</h2>
 
 ###
 
-<h4 align="left">I'm currently learning and passionate about Android Development exploring Kotlin, Jetpack Compose, and Firebase</h4>
+<h4 align="left" style="color: #444;">
+  I'm currently learning and passionate about Android Development exploring Kotlin, Jetpack Compose, and Firebase
+</h4>
 
 ###
 
-<p align="left">
+<p align="left" style="color: #333;">
 📱 Passionate about building mobile experiences with Kotlin & Java.. bruh<br>
 🚀 Currently learning deeper into Android Dev best practices & architecture<br>
 🧩 Also exploring backend tools like Firebase, Supabase, and Express.js<br>
@@ -20,13 +24,16 @@
 
 ###
 
-<div align="center" style="width: 100%;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGkybzM5b2I0NXYxbGZtN3hmejdrbTUwYzJtaGNldXFzcGcycmhxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Y01jP8QeLOox2/giphy.gif" width="100%" alt="fun gif" />
+<div align="center" style="width: 100%; margin-bottom: 1rem;">
+  <img     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzYzeTJrdmt6MjBxanhkMnlna3V2YW9wZTdwajhsbmxsNmx2dDR0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btRkeE7RtAq8DnO/giphy.gif" 
+    style="width: 100%; max-height: 50vh; object-fit: contain;" 
+    alt="fun gif" 
+  />
 </div>
 
 ###
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h2 align="left" style="color: #2575fc;">🛠️ Tech Stack</h2>
 
 ###
 
@@ -43,7 +50,7 @@
 
 ###
 
-<h2 align="left">🌐 Connect With Me</h2>
+<h2 align="left" style="color: #2575fc;">🌐 Connect With Me</h2>
 
 ###
 
@@ -64,7 +71,7 @@
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
+<h2 align="left" style="color: #2575fc;">📊 GitHub Stats</h2>
 
 ###
 
