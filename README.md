@@ -25,9 +25,10 @@
 ###
 
 <div align="center" style="width: 100%; margin-bottom: 1rem;">
-  <img     src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzYzeTJrdmt6MjBxanhkMnlna3V2YW9wZTdwajhsbmxsNmx2dDR0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btRkeE7RtAq8DnO/giphy.gif" 
-    style="width: 100%; max-height: 50vh; object-fit: contain;" 
-    alt="fun gif" 
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzYzeTJrdmt6MjBxanhkMnlna3V2YW9wZTdwajhsbmxsNmx2dDR0aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btRkeE7RtAq8DnO/giphy.gif"
+    style="width: 100%; max-height: 50vh; object-fit: contain;"
+    alt="fun gif"
   />
 </div>
 
@@ -76,7 +77,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flynnxlch&layout=compact&theme=tokyonight&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flynnxlch&layout=compact&theme=tokyonight&langs_count=6&hide_border=false" height="150" />
 </div>
 
 ###
