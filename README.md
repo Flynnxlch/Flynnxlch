@@ -51,7 +51,7 @@
 
 ###
 
-<h2 align="left" style="color: #2575fc;">🌐 Connect With Me</h2>
+<h2 align="left" style="color: #2575fc;">🌐 Let's Connect With Me</h2>
 
 ###
 
@@ -72,7 +72,7 @@
 
 ###
 
-<h2 align="left" style="color: #2575fc;">📊 GitHub Stats</h2>
+<h2 align="left" style="color: #2575fc;">📊 My GitHub Stats</h2>
 
 ###
 
