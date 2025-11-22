@@ -9,15 +9,15 @@
 ###
 
 <h4 align="left" style="color: #444;">
-  I'm currently learning and passionate about Android Development exploring Kotlin, Jetpack Compose, and Firebase
+  I'm currently learning and passionate about Full Stack Development exploring Javascript Library and Framework, and Kotlin
 </h4>
 
 ###
 
 <p align="left" style="color: #333;">
-📱 Passionate about building mobile experiences with Kotlin & Java.. bruh<br>
-🚀 Currently learning deeper into Android Dev best practices & architecture<br>
-🧩 Also exploring backend tools like Firebase, Supabase, and Express.js<br>
+📱 Passionate about building mobile and web experiences<br>
+🚀 Currently learning deeper into Web Fullstack Dev and Android Dev best practices & architecture<br>
+🧩 Also exploring database tools like Firebase, Supabase, using backend language and framework such as Node.js and Express.js<br>
 🧠 I enjoy combining frontend polish with backend logic<br>
 📫 Reach me on Instagram: <strong>@misyal_g</strong>
 </p>
